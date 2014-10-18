@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Giving Tree</string>
+    <string name="action_settings">Settings</string>
+    <string name="journal_title">The Giving Tree</string>
+    <string name="journal_entry_prompt">Create a journal entry</string>
+    <string name="title_activity_entry">EntryActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
